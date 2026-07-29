@@ -1,0 +1,1 @@
+function e(e){return e.toLocaleString(`vi-VN`)+` đ`}function t(e){return`${e} phút`}function n(e){if(!e)return``;let t=e.split(`T`)[0].split(`-`);return t.length===3?`${t[2]}/${t[1]}/${t[0]}`:e}function r(e){if(!e)return``;let t=e.split(`T`);if(t.length===2){let e=n(t[0]),r=t[1].split(`:`);return`${`${r[0]}:${r[1]}`}, ${e}`}return e}export{e as i,n,t as r,r as t};

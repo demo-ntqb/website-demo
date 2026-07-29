@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <style>
+      .brand-text { font-family: 'Playfair Display', 'Didot', 'Georgia', serif; font-size: 20px; font-weight: bold; fill: #1C2D27; }
+      .brand-subtext { font-family: 'Plus Jakarta Sans', 'Helvetica', 'Arial', sans-serif; font-size: 8px; font-weight: 600; fill: #8C9D83; letter-spacing: 0.15em; }
+      .logo-icon { fill: #D4A373; }
+    </style>
+  </defs>
+  
+  <!-- Abstract Leaf Icon -->
+  <g transform="translate(10, 10)">
+    <path class="logo-icon" d="M20,5 C10,5 5,15 5,25 C5,35 15,35 20,35 C25,35 35,35 35,25 C35,15 30,5 20,5 Z M20,31 C15,31 9,28 9,23 C9,17 15,11 20,9 C25,11 31,17 31,23 C31,28 25,31 20,31 Z" />
+    <path class="logo-icon" d="M20,12 C18,15 17,19 19,22 C20,23 21,23 22,22 C24,19 23,15 21,12 C20.7,11.5 20.3,11.5 20,12 Z" opacity="0.8" />
+  </g>
+  
+  <!-- Text Elements -->
+  <text x="60" y="32" class="brand-text">AN NHIÊN</text>
+  <text x="60" y="45" class="brand-subtext">SERENITY &amp; WELLNESS SPA</text>
+</svg>
